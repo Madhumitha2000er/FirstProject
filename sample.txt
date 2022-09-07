@@ -1,2 +1,2 @@
 This is a sample file.
-This is a newly added line.
+This is a newly added line.Merge Conflicts by some team member.
